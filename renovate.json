@@ -1,4 +1,3 @@
 {
-  "extends": ["config:base"],
-  "baseBranches": ["v5"]
+  "extends": ["config:base"]
 }

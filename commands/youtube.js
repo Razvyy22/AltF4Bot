@@ -33,7 +33,7 @@ module.exports = {
       );
 
     let Invite = await message.member.voice.channel.activityInvite(
-      "880218394199220334"
+      "755600276941176913"
     ); //Made using discordjs-activity package
     let embed = new MessageEmbed()
       .setAuthor(
